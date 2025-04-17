@@ -91,8 +91,8 @@ Handles:
 
 ## 📸 Screenshot
 
+![My Calculator](https://github.com/user-attachments/assets/83e2dd8a-80b4-4de2-b8d6-37edab108adb)
 
-![My Calculator](https://github.com/user-attachments/assets/809259d4-c6b2-4c09-aa1f-1dcc4153d766)
 
 ---
 
