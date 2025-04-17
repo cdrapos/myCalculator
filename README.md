@@ -21,7 +21,6 @@ This project is a simple web-based calculator built using **HTML**, **CSS**, and
 - Clear/Reset function (`C`)
 - Decimal point support (`,` or `.`)
 - Responsive layout
-- Dark mode background for modern look
 - Styled buttons for a clean UX
 - Preview history (`H`)
 ---
@@ -54,7 +53,7 @@ Example button:
 - Applies styling to the calculator layout:
   - Flexbox used for grid alignment
   - Rounded buttons with hover effects
-  - Dark background with contrasting button colors (e.g. orange `=` and red `C`)
+  - White background with contrasting button colors (e.g. orange `=` and red `C`)
 
 ---
 
@@ -64,7 +63,7 @@ Handles:
 
 - Button click events using `event delegation`
 - Input parsing and storing current/previous values
-- Operator handling with `+`, `-`, `*`, `/`, `%`
+- Operator handling with `+`, `-`, `×`, `÷`, `%`
 - Calculating and displaying results
 - Resetting and updating the UI
 
@@ -101,4 +100,4 @@ Handles:
 
 - **Name**: Christos Apostolidis
 - **GitHub**: [cdrapos](https://github.com/cdrapos)  
-- **Background**: IT Applications Engineer, passionate about self-improvement and front-end development.
+- **Background**: IT Applications Engineer, passionate about programming and front-end development.
