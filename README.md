@@ -69,7 +69,6 @@ Handles:
 
 ### Key Variables:
 - `currentInput` – Current number being typed
-- `previousInput` – Stored number for the operation
 - `operator` – Selected arithmetic operator
 
 ### Key Functions:
