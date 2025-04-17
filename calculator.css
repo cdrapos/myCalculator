@@ -35,10 +35,13 @@ body {
   background-color: #eaeaea;
   color: #333;
   font-size: 2.2rem;
-  padding: 15px;
+  padding: 10px;
   text-align: right;
   border-radius: 10px;
   margin-bottom: 20px;
+  overflow-x: auto;
+  white-space: nowrap;
+  word-break: break-all;
   box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.05);
 }
 
