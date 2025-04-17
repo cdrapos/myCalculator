@@ -23,16 +23,16 @@ This project is a simple web-based calculator built using **HTML**, **CSS**, and
 - Responsive layout
 - Dark mode background for modern look
 - Styled buttons for a clean UX
-
+- Preview history (`H`)
 ---
 
 ## 🧱 Folder Structure
 
 ```
 calculator/
-├── index.html
-├── style.css
-└── script.js
+├── calculator.html
+├── calculator.css
+└── calculator.js
 ```
 
 ---
@@ -86,20 +86,19 @@ Handles:
 - Replace `eval()` with safer expression parser
 - Add keyboard support
 - Add scientific calculator functions (sin, cos, sqrt, etc.)
-- Add history of calculations
 - Improve accessibility (ARIA roles, tab navigation)
 
 ---
 
 ## 📸 Screenshot
 
-![Calculator Screenshot](screenshot.png)  
-*(Replace with a screenshot of your calculator UI)*
+
+![My Calculator](https://github.com/user-attachments/assets/809259d4-c6b2-4c09-aa1f-1dcc4153d766)
 
 ---
 
 ## 👨‍💻 Author
 
-- **Name**: Chris Drapos  
+- **Name**: Christos Apostolidis
 - **GitHub**: [cdrapos](https://github.com/cdrapos)  
 - **Background**: IT Applications Engineer, passionate about self-improvement and front-end development.
