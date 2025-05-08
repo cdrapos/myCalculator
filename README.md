@@ -98,5 +98,4 @@ Handles:
 ## 👨‍💻 Author
 
 - **Name**: Christos Apostolidis
-- **GitHub**: [cdrapos](https://github.com/cdrapos)  
 - **Background**: IT Applications Engineer, passionate about programming and front-end development.
